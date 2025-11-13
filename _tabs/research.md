@@ -6,103 +6,134 @@ title: Research & Notes
 
 ## Overview
 
-This section contains my Cornell notes, reading summaries, and coursework documentation. I create these notes to deepen my understanding and to share with classmates who want to learn alongside me.
+Here are my [Cornell notes](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/) from books I've read and classes I'm taking. I make these to help myself learn and to share with classmates.
+
+[Courses](#courses) | [Physics Reading](#physics-reading) | [Mathematics](#mathematics) | [AP Computer Science Principles](#ap-computer-science-principles)
 
 ---
 
-## Quantum Physics Reading
+## Courses
 
-### Six Easy Pieces by Richard Feynman
-
-**Status:** Completed
-
-Feynman's lectures provided my first deep dive into how physicists think about the fundamental nature of reality. These six chapters cover:
-
-1. Atoms in Motion
-2. Basic Physics
-3. The Relation of Physics to Other Sciences
-4. Conservation of Energy
-5. The Theory of Gravitation
-6. Quantum Behavior
-
-**Key Takeaways:**
-- The beauty of physical laws and their mathematical expression
-- How quantum mechanics challenges our everyday intuitions
-- The scientific method and how physicists approach problems
-- The interconnection between different areas of physics
-
-*Cornell notes from each chapter coming soon.*
-
----
-
-### How to Teach Quantum Physics to Your Dog by Chad Orzel
-
-**Status:** Completed
-
-This book made quantum mechanics accessible and fun by explaining complex concepts through everyday analogies. Topics covered:
-
-- Wave-particle duality
-- The Heisenberg Uncertainty Principle
-- Quantum tunneling
-- Entanglement and nonlocality
-- Many-worlds interpretation
-
-**What I Learned:**
-- Quantum mechanics isn't just mathematical abstraction—it has real applications
-- The difference between classical and quantum thinking
-- How to explain counterintuitive concepts to others
-- The experimental foundations of quantum theory
-
-*Cornell notes available soon. These will include the key concepts and my questions/reflections.*
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 30px; margin: 20px 0;">
+  <div>
+    <h4>Course</h4>
+    <p><strong><a href="https://quantum.cloud.ibm.com/learning">Introduction to Quantum Computing</a></strong></p>
+    <p>by IBM Quantum Learning</p>
+    <p><strong>Status:</strong> Completed</p>
+    <p><strong>Completed:</strong> November 2025</p>
+  </div>
+  <div>
+    <h4>Cornell Notes</h4>
+    <ol>
+      <li><a href="/posts/ibm-quantum-intro/">Introduction to Quantum Computing</a></li>
+      <li><a href="/posts/ibm-quantum-fundamentals/">Quantum Computing Fundamentals</a></li>
+      <li><a href="/posts/ibm-quantum-technology/">Quantum Technology</a></li>
+      <li><a href="/posts/ibm-quantum-business/">Business Impacts of Quantum Computing</a></li>
+      <li><a href="/posts/ibm-quantum-ready/">How to Become Quantum Ready</a></li>
+    </ol>
+    <p><strong>What I Learned:</strong></p>
+    <ul>
+      <li>How qubits work differently from regular bits</li>
+      <li>The three quantum principles: superposition, entanglement, and interference</li>
+      <li>How to measure quantum computer performance (Quantum Volume, not just qubit count)</li>
+      <li>Which industries will be transformed by quantum computing</li>
+      <li>How companies are preparing for the quantum future</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-## Mathematics Coursework
+## Physics Reading
+
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 30px; margin: 20px 0;">
+  <div>
+    <h4>Book</h4>
+    <p><strong><a href="https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained/dp/0465025276">Six Easy Pieces</a></strong></p>
+    <p>by Richard Feynman</p>
+    <p><strong>Status:</strong> Completed</p>
+    <p><strong>Notes Created:</strong> September 8, 2025</p>
+  </div>
+  <div>
+    <h4>Cornell Notes</h4>
+    <ol>
+      <li><a href="/posts/six-easy-pieces-intro/">Introduction</a></li>
+      <li><a href="/posts/six-easy-pieces-preface/">Preface</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-1/">Atoms in Motion</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-2/">Basic Physics</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-3/">The Relation of Physics to Other Sciences</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-4/">Conservation of Energy</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-5/">The Theory of Gravitation</a></li>
+      <li><a href="/posts/six-easy-pieces-chapter-6/">Quantum Behavior</a></li>
+    </ol>
+    <p><strong>Key Takeaways:</strong></p>
+    <ul>
+      <li>Physics follows mathematical patterns</li>
+      <li>How quantum mechanics challenges our everyday intuitions</li>
+      <li>The scientific method and how physicists approach problems</li>
+      <li>How different parts of physics connect to each other</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 30px; margin: 20px 0;">
+  <div>
+    <h4>Book</h4>
+    <p><strong><a href="https://www.amazon.com/How-Teach-Quantum-Physics-Your/dp/1416572287">How to Teach Quantum Physics to Your Dog</a></strong></p>
+    <p>by Chad Orzel</p>
+    <p><strong>Status:</strong> Completed</p>
+    <p><strong>Notes Created:</strong> August 28, 2025</p>
+  </div>
+  <div>
+    <h4>Cornell Notes</h4>
+    <ol>
+      <li><a href="/posts/quantum-dog-chapter-1/">Particle-Wave Duality</a></li>
+      <li><a href="/posts/quantum-dog-chapter-2/">Heisenberg Uncertainty Principle</a></li>
+      <li><a href="/posts/quantum-dog-chapter-3/">Copenhagen Interpretation</a></li>
+      <li><a href="/posts/quantum-dog-chapter-4/">Many-Worlds Interpretation</a></li>
+      <li><a href="/posts/quantum-dog-chapter-5/">Quantum Zeno Effect</a></li>
+      <li><a href="/posts/quantum-dog-chapter-6/">Quantum Tunneling</a></li>
+      <li><a href="/posts/quantum-dog-chapter-7/">Quantum Entanglement</a></li>
+      <li><a href="/posts/quantum-dog-chapter-8/">Quantum Teleportation</a></li>
+      <li><a href="/posts/quantum-dog-chapter-9/">Virtual Particles and QED</a></li>
+      <li><a href="/posts/quantum-dog-chapter-10/">Misuses of Quantum Physics</a></li>
+    </ol>
+    <p><strong>What I Learned:</strong></p>
+    <ul>
+      <li>Quantum mechanics isn't just math on paper, it has real applications</li>
+      <li>The difference between classical and quantum thinking</li>
+      <li>How to explain counterintuitive concepts to others</li>
+      <li>The experiments that proved quantum mechanics works</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## Mathematics
 
 ### Art of Problem Solving (AoPS)
 
-I've been working through the AoPS curriculum, which emphasizes problem-solving and mathematical reasoning rather than just computation.
-
-**Completed:**
-- Beast Academy levels 3-5
-- Prealgebra A (completed)
-- Prealgebra B (completed)
-
-**In Progress:**
-- Algebra A (finishing December 2025)
-
-**What Makes AoPS Different:**
-The focus on why mathematics works, not just how to calculate. This approach connects directly to physics, where understanding the underlying principles is essential.
-
-*I'll be adding summaries of key concepts and challenging problems I've worked through.*
+**Current & Completed:**
+- [Algebra B/2](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) (starting December 2025)
+- [Algebra A/1](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) (finishing December 2025)
+- [Prealgebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) (completed September 2025)
+- [Prealgebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) (completed July 2025)
+- Beast Academy levels 3-5 (completed)
 
 ---
 
-## Cornell Notes Method
+## AP Computer Science Principles
 
-I use the Cornell note-taking system for all my reading and coursework:
-
-- **Cue Column:** Key questions and concepts
-- **Notes Column:** Detailed explanations and examples
-- **Summary:** My own synthesis of the material
-
-This method helps me:
-1. Actively engage with material while reading
-2. Create study guides for review
-3. Identify gaps in my understanding
-4. Share organized notes with classmates
-
----
-
-## AP Computer Science Principles Prep
-
-**Exam Date:** May 2026
+**[AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)** | **Exam Date:** May 2026
 
 I'm preparing for the AP CSP exam by:
-- Working through computational thinking concepts
-- Building projects that demonstrate programming skills
-- Understanding how computing impacts society
-- Exploring algorithms and data representation
+- Learning how computers think
+- Building projects that show programming skills
+- Learning how computers affect people's lives
+- Learning about algorithms and how data works
 
 *Study notes and practice projects will be added here as I progress.*
 
@@ -112,11 +143,9 @@ I'm preparing for the AP CSP exam by:
 
 I'm working on adding:
 
-1. **Downloadable Cornell Notes** (PDF format) for physics readings
-2. **Concept Maps** connecting ideas across physics and mathematics
-3. **Practice Problems** with solutions and explanations
-4. **Reading Recommendations** for students interested in physics
-5. **Study Strategies** that have worked for me
+1. **Concept Maps** connecting ideas across physics and mathematics
+2. **Practice Problems** with solutions and explanations
+3. **Reading Recommendations** for students interested in physics
 
 ---
 
