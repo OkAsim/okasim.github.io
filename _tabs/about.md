@@ -46,8 +46,8 @@ I was able to see experimental setups up close, which helped me understand how i
 
 ### Mathematics
 **Art of Problem Solving** courses:
-- [Algebra B/2](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) (starting December 2025)
-- [Algebra A/1](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) (finishing December 2025)
+- [Algebra B/2](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) (started December 2025)
+- [Algebra A/1](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) (completed December 2025)
 - [Prealgebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) (completed September 2025)
 - [Prealgebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) (completed July 2025)
 - Beast Academy levels 3-5 (completed)
