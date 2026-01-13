@@ -29,6 +29,15 @@ That's when it hit me. Quantum computing is where the future is, but we need a l
 
 So I started reading more (Feynman's lectures, quantum physics books), learning IBM Qiskit, and really diving into the math I'd need. I'm not just reading about it anymore. I'm actually learning how to do it.
 
+### Visiting a Quantum Physics Lab (December 2025)
+
+On December 19, 2025, I visited the physics labs at UC Berkeley after meeting Professor Irfan Siddiqi and sharing what I had been learning about quantum physics. During the visit, I learned more about quantum entanglement and saw how quantum computers are built and tested in real research labs.
+
+I was able to see experimental setups up close, which helped me understand how ideas from books and math are used in real experiments. Professor Siddiqi also gave me a signed copy of his book, *Quantum Measurement: Theory and Practice*. The visit made everything I had been learning feel much more real and motivated me to keep studying quantum physics and simulations.
+
+![At UC Berkeley's quantum physics lab](/assets/img/quantum-lab-visit.jpg)
+*At UC Berkeley's quantum physics lab during my visit in December 2025.*
+
 ---
 
 ## 📚 My Learning Journey
@@ -116,6 +125,9 @@ My big goal is to work with actual researchers on quantum physics and quantum co
 
 **Swimming & Skiing:** Been skiing since age 7. It's basically physics plus speed plus trying not to fall on your face.
 
+![Skiing at Whistler](/assets/img/skiing-whistler.jpg)
+*Skiing at Whistler, December 2025*
+
 **Travel:** Visited 10+ countries. I've tried different foods and seen how different the world is. Japan does have the best sushi, bet!
 
 **Reading:** Huge reader. I-have-too-many-books-on-my-floor kind of reader.
@@ -153,4 +165,4 @@ If you like physics and math (or want to learn), definitely reach out. Always ha
 
 ---
 
-*Last updated: November 2025*
+*Last updated: January 2026*
