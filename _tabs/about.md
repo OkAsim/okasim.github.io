@@ -42,7 +42,7 @@ I was able to see experimental setups up close, which helped me understand how i
 
 ## 📚 My Learning Journey
 
-> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Taking AP test in 7th grade. Building stuff with physics, Python, and Java.
+> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Passed AP CSP in 6th grade, taking AP CS A in 7th. Building stuff with physics, Python, and Java.
 
 ### Mathematics
 **Art of Problem Solving** courses:
