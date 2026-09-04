@@ -8,7 +8,7 @@ title: Research & Notes
 
 Here are my [Cornell notes](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/) from books I've read and classes I'm taking. I make these to help myself learn and to share with classmates.
 
-[Courses](#courses) | [Physics Reading](#physics-reading) | [Mathematics](#mathematics) | [AP Computer Science Principles](#ap-computer-science-principles)
+[Courses](#courses) | [Physics Reading](#physics-reading) | [Mathematics](#mathematics) | [AP Computer Science](#ap-computer-science)
 
 ---
 
@@ -116,26 +116,39 @@ Here are my [Cornell notes](https://lsc.cornell.edu/how-to-study/taking-notes/co
 
 ### Art of Problem Solving (AoPS)
 
-**Current & Completed:**
-- [Algebra B/2](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) (starting December 2025)
-- [Algebra A/1](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) (finishing December 2025)
-- [Prealgebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) (completed September 2025)
-- [Prealgebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) (completed July 2025)
-- Beast Academy levels 3-5 (completed)
+| Course | Weeks | Start Date | End Date | Status |
+|--------|-------|------------|----------|--------|
+| [Pre Algebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) | 16 | March 28, 2025 | July 18, 2025 | ✅ Completed |
+| [Pre Algebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) | 16 | June 2, 2025 | September 22, 2025 | ✅ Completed |
+| [Algebra A](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) | 16 | August 17, 2025 | December 14, 2025 | ✅ Completed |
+| [Algebra B](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) | 16 | December 1, 2025 | March 30, 2026 | ✅ Completed |
+| [Geometry](https://data.artofproblemsolving.com/course-docs/syllabi/geometry-syllabus.pdf) | 24 | March 22, 2026 | September 20, 2026 | 🔄 In Progress |
+| [Intermediate Algebra](https://data.artofproblemsolving.com/course-docs/syllabi/intermediate-algebra-syllabus.pdf) | 24 | September 27, 2026 | April 4, 2027 | 📅 Upcoming |
+| [Precalculus](https://data.artofproblemsolving.com/course-docs/syllabi/precalculus-syllabus.pdf) | 22 | April 12, 2027 | September 13, 2027 | 📅 Upcoming |
+
+**Foundation:** Beast Academy levels 3-5 (completed)
 
 ---
 
-## AP Computer Science Principles
+## AP Computer Science
 
-**[AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)** | **Exam Date:** May 2026
+### AP Computer Science Principles ✅
+**[AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)** | **Passed:** May 2026 (6th grade)
 
-I'm preparing for the AP CSP exam by:
-- Learning how computers think
-- Building projects that show programming skills
-- Learning how computers affect people's lives
-- Learning about algorithms and how data works
+Covered how computers think, programming fundamentals, algorithms, data, and the impact of computing on society.
 
-*Study notes and practice projects will be added here as I progress.*
+---
+
+### AP Computer Science A
+**[AP Computer Science A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)** | **Exam Date:** May 2027
+
+Currently preparing for AP CS A, which focuses on:
+- Object-oriented programming in Java
+- Data structures (arrays, ArrayLists, 2D arrays)
+- Algorithms and recursion
+- Inheritance and polymorphism
+
+*Study notes will be added here as I progress.*
 
 ---
 
@@ -160,4 +173,4 @@ If you're a teacher or student interested in any of these materials:
 
 ---
 
-*Page last updated: November 2025*
+*Page last updated: September 2026*

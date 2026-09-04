@@ -7,9 +7,9 @@ title: About
 
 ## 👋 Hi! I'm Asim
 
-I'm 11 years old, in 6th grade, and I'm kind of obsessed with quantum physics. Yeah, I know that sounds weird for someone who still needs to be reminded to clean his room, but hear me out. Quantum mechanics is really interesting and I can't stop reading about it.
+I'm 12 years old, in 7th grade, and I'm kind of obsessed with quantum physics. Yeah, I know that sounds weird for someone who still needs to be reminded to clean his room, but hear me out. Quantum mechanics is really interesting and I can't stop reading about it.
 
-I also love coding in Python (been doing it since I was 6), working on math problems that make my brain hurt in a good way, and trying to convince my friends that physics is actually cooler than any video game. (I'm still working on that last one.)
+I also love coding in Python and Java (been doing it since I was 6), working on math problems that make my brain hurt in a good way, and trying to convince my friends that physics is actually cooler than any video game. (I'm still working on that last one.)
 
 ---
 
@@ -42,7 +42,7 @@ I was able to see experimental setups up close, which helped me understand how i
 
 ## 📚 My Learning Journey
 
-> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Taking AP test in 6th grade. Building stuff with physics and Python.
+> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Taking AP test in 7th grade. Building stuff with physics and Python.
 
 ### Mathematics
 **Art of Problem Solving** courses:
@@ -69,10 +69,11 @@ I was able to see experimental setups up close, which helped me understand how i
 
 **Timeline:**
 - 👶 **Age 6:** Started Python (right after learning to read)
-- 🎮 **Age 6-11:** 5+ years building projects
-- 📝 **Now:** Prepping for AP Computer Science Principles (May 2026)
+- 🎮 **Age 6-12:** 6+ years building projects
+- ✅ **Spring 2026:** Passed AP Computer Science Principles (6th grade)
+- 📝 **Now:** Prepping for AP Computer Science A (May 2027)
 
-Yes, I'm taking an AP test in 6th grade. Yes, it's a lot. But honestly? Pretty fun.
+Yes, I'm taking AP tests in middle school. Yes, it's a lot. But honestly? Pretty fun.
 
 ---
 
@@ -95,7 +96,7 @@ That's when I realized I don't just want to READ about physics - I want to BUILD
 
 ## 🎯 What I'm Trying to Do
 
-My big goal is to work with actual researchers on quantum physics and quantum computing projects. I know most 11-year-olds can't exactly walk into a lab, but I'm hoping to:
+My big goal is to work with actual researchers on quantum physics and quantum computing projects. I know most 12-year-olds can't exactly walk into a lab, but I'm hoping to:
 
 - Keep learning advanced math and physics (algebra is just the beginning)
 - Build actual quantum circuits and see what they can do
@@ -136,7 +137,7 @@ My big goal is to work with actual researchers on quantum physics and quantum co
 
 ## How I Manage It All
 
-People ask how I fit everything in. School, AoPs math, piano, BJJ, chess, coding, quantum physics reading, and still being a normal 11-year-old.
+People ask how I fit everything in. School, AoPs math, piano, BJJ, chess, coding, quantum physics reading, and still being a normal 12-year-old.
 
 I've kept the same sleep schedule since I was a baby. **6:00 AM wake up, 8:15 PM bedtime, 7 days a week** (except for family visits and vacations).
 
@@ -155,7 +156,7 @@ Honestly, I just try to stick to a routine. Having a consistent schedule with ti
 ## 💬 Want to Talk?
 
 **For Researchers/Professors:**
-If you think an 11-year-old who's really into this stuff could help with anything (even just crunching data or testing educational materials), I'd love to hear from you!
+If you think a 12-year-old who's really into this stuff could help with anything (even just crunching data or testing educational materials), I'd love to hear from you!
 
 **For Students:**
 If you like physics and math (or want to learn), definitely reach out. Always happy to talk about this stuff or share notes.
@@ -165,4 +166,4 @@ If you like physics and math (or want to learn), definitely reach out. Always ha
 
 ---
 
-*Last updated: January 2026*
+*Last updated: September 2026*

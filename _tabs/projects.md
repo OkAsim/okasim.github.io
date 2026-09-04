@@ -48,7 +48,7 @@ I started coding in Python when I was 6, right after I learned to read. My paren
 
 I've been following Python tutorials and making small games (lots of broken ones before I got things working), math problem solvers and simple calculators, basic physics simulations (making balls bounce with actual physics equations), learning about data structures and algorithms, and exploring whatever seems interesting that week.
 
-Right now I'm preparing for the **AP Computer Science Principles exam** in May 2026. Since I've been coding since I was 6, the material isn't too hard.
+I passed the **AP Computer Science Principles exam** in May 2026 (6th grade). Now I'm preparing for **AP Computer Science A** in May 2027.
 
 When you spend an hour debugging something and finally find that one missing parenthesis, and suddenly everything works. That feeling never gets old.
 
@@ -62,7 +62,7 @@ I want to build physics simulations for concepts from my quantum physics reading
 
 **Short-term (next few months):**
 1. Actually working quantum circuits in Qiskit (not just tutorials)
-2. Python projects related to AP CSP concepts
+2. Java projects for AP CS A
 3. Maybe some physics simulations
 
 **Long-term (when I learn more):**
@@ -74,7 +74,7 @@ I want to build physics simulations for concepts from my quantum physics reading
 
 ## Get In Touch
 
-**For researchers/professors:** I know 11-year-olds don't usually work in labs, but if you think I could help with anything (even just data analysis or testing educational materials), I'd love to hear from you!
+**For researchers/professors:** I know 12-year-olds don't usually work in labs, but if you think I could help with anything (even just data analysis or testing educational materials), I'd love to hear from you!
 
 **For students:** If you're into physics and math (or just want to learn), definitely reach out. Always happy to share notes or work on stuff together.
 
@@ -82,4 +82,4 @@ I want to build physics simulations for concepts from my quantum physics reading
 
 ---
 
-*Last updated: November 2025*
+*Last updated: September 2026*
