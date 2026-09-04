@@ -42,15 +42,17 @@ I was able to see experimental setups up close, which helped me understand how i
 
 ## 📚 My Learning Journey
 
-> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Taking AP test in 7th grade. Building stuff with physics and Python.
+> **Quick version:** Math nerd who codes and reads quantum physics books for fun. Taking AP test in 7th grade. Building stuff with physics, Python, and Java.
 
 ### Mathematics
 **Art of Problem Solving** courses:
-- [Algebra B/2](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) (started December 2025)
-- [Algebra A/1](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) (completed December 2025)
-- [Prealgebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) (completed September 2025)
-- [Prealgebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) (completed July 2025)
-- Beast Academy levels 3-5 (completed)
+- [Geometry](https://data.artofproblemsolving.com/course-docs/syllabi/geometry-syllabus.pdf) (in progress, ends September 2026)
+- [Intermediate Algebra](https://data.artofproblemsolving.com/course-docs/syllabi/intermediate-algebra-syllabus.pdf) (starting September 2026)
+- [Algebra B](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-b-syllabus.pdf) ✅ completed March 2026
+- [Algebra A](https://data.artofproblemsolving.com/course-docs/syllabi/algebra-a-syllabus.pdf) ✅ completed December 2025
+- [Prealgebra 2](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra2-syllabus.pdf) ✅ completed September 2025
+- [Prealgebra 1](https://data.artofproblemsolving.com/course-docs/syllabi/prealgebra1-syllabus.pdf) ✅ completed July 2025
+- Beast Academy levels 3-5 ✅ completed
 
 ---
 
